@@ -1,4 +1,3 @@
-/*Andrew Oliveau CS-222-001 G01092559 Project 1 */
 
 #include <stdio.h>
 #include <stdlib.h>

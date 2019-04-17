@@ -1,7 +1,1 @@
-this is a test to see what it looks like on github.
-
-hope this works fine...
-
-#praytime
-
-i love pizza
+This repository contains scripts and programs I coded for fun, projects, and CTF challenges. 

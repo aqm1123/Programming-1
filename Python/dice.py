@@ -3,7 +3,7 @@ from random import randint
 import numpy as np
 
 def roll():
-	
+	#This is fake and gay
 	numbers_generated = []
 	n = int(input("How many dice rolls? (100, 1000,  10000):  ")) 
 	for i in range(n):
